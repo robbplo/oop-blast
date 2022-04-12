@@ -1,0 +1,1 @@
+{"version":1,"defects":{"LoggerTest::it_log":3,"LoggerTest::test_log_methode":5,"LoggerTest::tests_l":5,"LoggerTest::test_logger_log_method":3},"times":{"LoggerTest::it_log":0.001,"LoggerTest::test_log_methode":0.001,"LoggerTest::tests_l":0.001,"LoggerTest::test_logger_log_method":0.002}}

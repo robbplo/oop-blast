@@ -1,0 +1,17 @@
+{
+    "name": "robbinploeger/oop-testing",
+    "autoload": {
+        "psr-4": {
+            "Robbinploeger\\OopTesting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robbin Ploeger",
+            "email": "robbplo@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
