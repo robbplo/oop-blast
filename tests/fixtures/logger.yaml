@@ -1,0 +1,9 @@
+Logger:
+  properties:
+    enabled: bool
+  methods:
+    info:
+      message: string
+    log:
+      level: string
+      message: string

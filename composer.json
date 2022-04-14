@@ -3,7 +3,8 @@
     "autoload": {
         "psr-4": {
             "Robbinploeger\\OopTesting\\": "src/"
-        }
+        },
+        "classmap": ["tests/ClassFixturesHelper.php"]
     },
     "authors": [
         {
@@ -12,6 +13,8 @@
         }
     ],
     "require": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5",
+        "symfony/yaml": "^6.0",
+        "symfony/var-dumper": "^6.0"
     }
 }
